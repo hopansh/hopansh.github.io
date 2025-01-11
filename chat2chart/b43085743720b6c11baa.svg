@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    baseProfile="full" width="1102" height="783"
+    style="position: absolute; left: 0px; top: 0px; user-select: none;">
+    <rect width="1102" height="783" x="0" y="0" fill="none"></rect>
+    <g>
+        <path d="M110.2 713.5L991.8 713.5" fill="transparent" stroke="#E0E6F1"></path>
+        <path d="M110.2 582.5L991.8 582.5" fill="transparent" stroke="#E0E6F1"></path>
+        <path d="M110.2 452.5L991.8 452.5" fill="transparent" stroke="#E0E6F1"></path>
+        <path d="M110.2 321.5L991.8 321.5" fill="transparent" stroke="#E0E6F1"></path>
+        <path d="M110.2 190.5L991.8 190.5" fill="transparent" stroke="#E0E6F1"></path>
+        <path d="M110.2 60.5L991.8 60.5" fill="transparent" stroke="#E0E6F1"></path>
+        <path d="M110.2 713.5L991.8 713.5" fill="transparent" stroke="#6E7079"
+            stroke-linecap="round"></path>
+        <path d="M110.5 713L110.5 718" fill="transparent" stroke="#6E7079"></path>
+        <path d="M330.5 713L330.5 718" fill="transparent" stroke="#6E7079"></path>
+        <path d="M551.5 713L551.5 718" fill="transparent" stroke="#6E7079"></path>
+        <path d="M771.5 713L771.5 718" fill="transparent" stroke="#6E7079"></path>
+        <path d="M992.5 713L992.5 718" fill="transparent" stroke="#6E7079"></path>
+        <text dominant-baseline="central" text-anchor="end" transform="translate(102.2 713)"
+            fill="#6E7079" style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">0</text>
+        <text dominant-baseline="central" text-anchor="end" transform="translate(102.2 582.4)"
+            fill="#6E7079" style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">20</text>
+        <text dominant-baseline="central" text-anchor="end" transform="translate(102.2 451.8)"
+            fill="#6E7079" style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">40</text>
+        <text dominant-baseline="central" text-anchor="end" transform="translate(102.2 321.2)"
+            fill="#6E7079" style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">60</text>
+        <text dominant-baseline="central" text-anchor="end" transform="translate(102.2 190.6)"
+            fill="#6E7079" style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">80</text>
+        <text dominant-baseline="central" text-anchor="end" transform="translate(102.2 60)"
+            fill="#6E7079" style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">100</text>
+        <text dominant-baseline="central" text-anchor="middle" xml:space="preserve" y="6"
+            transform="translate(220.4 721)" fill="#6E7079"
+            style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">Matcha Latte</text>
+        <text dominant-baseline="central" text-anchor="middle" xml:space="preserve" y="6"
+            transform="translate(440.8 721)" fill="#6E7079"
+            style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">Milk Tea</text>
+        <text dominant-baseline="central" text-anchor="middle" xml:space="preserve" y="6"
+            transform="translate(661.2 721)" fill="#6E7079"
+            style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">Cheese Cocoa</text>
+        <text dominant-baseline="central" text-anchor="middle" xml:space="preserve" y="6"
+            transform="translate(881.6 721)" fill="#6E7079"
+            style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">Walnut Brownie</text>
+        <path d="M135.546 713l49.9141 0l0 -282.749l-49.9141 0Z" fill="#5470c6"></path>
+        <path d="M355.946 713l49.9141 0l0 -542.643l-49.9141 0Z" fill="#5470c6"></path>
+        <path d="M576.346 713l49.9141 0l0 -564.192l-49.9141 0Z" fill="#5470c6"></path>
+        <path d="M796.746 713l49.9141 0l0 -472.772l-49.9141 0Z" fill="#5470c6"></path>
+        <path d="M195.4429 713l49.9141 0l0 -560.274l-49.9141 0Z" fill="#91cc75"></path>
+        <path d="M415.8429 713l49.9141 0l0 -479.302l-49.9141 0Z" fill="#91cc75"></path>
+        <path d="M636.2429 713l49.9141 0l0 -425.756l-49.9141 0Z" fill="#91cc75"></path>
+        <path d="M856.6429 713l49.9141 0l0 -351.967l-49.9141 0Z" fill="#91cc75"></path>
+        <path d="M255.3399 713l49.9141 0l0 -611.861l-49.9141 0Z" fill="#fac858"></path>
+        <path d="M475.7399 713l49.9141 0l0 -359.803l-49.9141 0Z" fill="#fac858"></path>
+        <path d="M696.1399 713l49.9141 0l0 -538.725l-49.9141 0Z" fill="#fac858"></path>
+        <path d="M916.5399 713l49.9141 0l0 -255.323l-49.9141 0Z" fill="#fac858"></path>
+        <path d="M-5 -5l204.4453 0l0 24l-204.4453 0Z" transform="translate(453.7773 5)"
+            fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+        <path
+            d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0"
+            transform="translate(453.7773 5)" fill="#5470c6"></path>
+        <text dominant-baseline="central" text-anchor="start" x="30" y="7"
+            transform="translate(453.7773 5)" fill="#333"
+            style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">2015</text>
+        <path d="M0 0l58.1484 0l0 14l-58.1484 0Z" transform="translate(453.7773 5)"
+            fill="transparent"></path>
+        <path
+            d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0"
+            transform="translate(521.9258 5)" fill="#91cc75"></path>
+        <text dominant-baseline="central" text-anchor="start" x="30" y="7"
+            transform="translate(521.9258 5)" fill="#333"
+            style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">2016</text>
+        <path d="M0 0l58.1484 0l0 14l-58.1484 0Z" transform="translate(521.9258 5)"
+            fill="transparent"></path>
+        <path
+            d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0"
+            transform="translate(590.0742 5)" fill="#fac858"></path>
+        <text dominant-baseline="central" text-anchor="start" x="30" y="7"
+            transform="translate(590.0742 5)" fill="#333"
+            style="font-size: 12px; font-family: &quot;Microsoft YaHei&quot;;">2017</text>
+        <path d="M0 0l58.1484 0l0 14l-58.1484 0Z" transform="translate(590.0742 5)"
+            fill="transparent"></path>
+    </g>
+</svg>

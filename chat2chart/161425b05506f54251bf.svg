@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="979" height="1027" viewBox="0 0 979 1027" fill="none">
+    <g clip-path="url(#clip0_224_2092)">
+        <g clip-path="url(#clip1_224_2092)">
+            <mask id="mask0_224_2092" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0"
+                y="0" width="1920" height="8386">
+                <path d="M1920 0H0V8386H1920V0Z" fill="white"></path>
+            </mask>
+            <g mask="url(#mask0_224_2092)">
+                <path opacity="0.3"
+                    d="M26 1026C550.118 1026 975 601.118 975 77C975 -447.118 550.118 -872 26 -872C-498.118 -872 -923 -447.118 -923 77C-923 601.118 -498.118 1026 26 1026Z"
+                    fill="url(#paint0_radial_224_2092)"></path>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="paint0_radial_224_2092" cx="0" cy="0" r="1"
+            gradientUnits="userSpaceOnUse" gradientTransform="translate(26 77) scale(949)">
+            <stop stop-color="#20a7c9"></stop>
+            <stop offset="1" stop-color="#f7f7f7" stop-opacity="0"></stop>
+        </radialGradient>
+        <clipPath id="clip0_224_2092">
+            <rect width="979" height="1027" fill="white"></rect>
+        </clipPath>
+        <clipPath id="clip1_224_2092">
+            <rect width="1920" height="8386" fill="white"></rect>
+        </clipPath>
+    </defs>
+</svg>
